@@ -14,6 +14,10 @@ This project is an e-commerce website built with React and Vite, featuring a cat
 - React
 - Vite
 - CSS
+- JavaScript
+- JSX
+
+
 
 ## Installation
 
